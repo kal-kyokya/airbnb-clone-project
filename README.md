@@ -6,7 +6,8 @@ It involves a deep dive into full-stack development, focusing on:<br />
 * Database Design.
 * API Development, and
 * Application Security.
-<br /><i>The aim is to understand complex architectures, workflows and collaborative team dynamics while building a scalable web application.</i>
+<br />
+The aim is to understand complex architectures, workflows and collaborative team dynamics while building a scalable web application.
 
 ## Learning Objective
 
