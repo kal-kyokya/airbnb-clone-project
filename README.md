@@ -61,3 +61,12 @@ Few of the important fields each key entities require:
 * <b>Reviews</b>: Owner, description as well as reviewed property.
 * <b>Payments</b>: Receipt, amount and status.
 
+## :page_with_curl: Feature Breakdown
+
+* <b>User Management</b>: Implement a secure system for user registration, authentication, and profile management.
+* <b>Property Management</b>: Develop features for property listing creation, updates and retrieval.
+* <b>Booking System</b>: Create a booking mechanism for users to reserve properties and manage booking details.
+* <b>Payment Processing</b>: Integrate a payment system to handle transactions and record payment details.
+* <b>Review System</b>: Allow users to leave reviews and ratings for properties.
+* <b>Data Optimization</b>: Ensure efficient data retrieval and storage through database optimizations.
+
