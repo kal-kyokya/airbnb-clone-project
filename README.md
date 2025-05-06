@@ -51,3 +51,13 @@ To successfully complete the project tasks, one must:
 * <b>Docker</b>: Containerization tool for consistent development and deployment environments.
 * <b>CI/CD Pipelines</b>: Automated pipelines for testing and deploying code changes.
 
+## :factory: Database Design
+
+Few of the important fields each key entities require:
+
+* <b>User</b>: First and last name as well as an email.
+* <b>Properties</b>: A unique name, location and number of rooms.
+* <b>Bookings</b>: A unique identifier, creation date and payment status.
+* <b>Reviews</b>: Owner, description as well as reviewed property.
+* <b>Payments</b>: Receipt, amount and status.
+
