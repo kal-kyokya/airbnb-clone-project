@@ -1,4 +1,4 @@
-# :house: AirBNB Clone Project
+# :house: Airbnb Clone Project
 
 This project by <a href="https://www.alxafrica.com" target="_blank">ALX Africa</a> for its Backend Web Pro-Development is a comprehensive, real-world application designed to simulate the development of a robust ```booking platform``` like Airbnb.<br />
 It involves a deep dive into full-stack development, focusing on:<br />
@@ -58,8 +58,8 @@ Few of the important fields each key entities require:
 * <b>User</b>: First and last name as well as an email.
 * <b>Properties</b>: A unique name, location and number of rooms.
 * <b>Bookings</b>: A unique identifier, creation date and payment status.
-* <b>Reviews</b>: Owner, description as well as reviewed property.
 * <b>Payments</b>: Receipt, amount and status.
+* <b>Reviews</b>: Owner, description as well as reviewed property.
 
 ## :page_with_curl: Feature Breakdown
 
@@ -74,10 +74,11 @@ Few of the important fields each key entities require:
 
 * <b>Authentication</b>: Implement logic establishing users legitimacy during log ins.
 * <b>Authorization</b>: Ensure users only have access to API endpoints not requiring admin priviledges and other permissions.
-* <b>Rate Limiting</b>: Prevent excessive requests increasing risk of a breakdown. Whether from a malicious actor or a high number of well-intended users.
+* <b>Rate Limiting</b>: Prevent excessive requests increasing risk of a breakdown—whether from a malicious actor or a high number of well-intended users.
 * <b>Cross-Origin Resource Sharing</b>: Mitigate the risk of Cross-Site Request Forgery by only allowing defined origins to make specific HTTP requests, each containing a set of custom headers.
 
 ## :recycle: CI/CD Pipeline
 
-Continuous Integration, Continuous Delivery Pipelines are a set of automated processes meant to safely but quickly move from 'generating code' to deploying it as Software solution. They shorten software development and enable early discovery of buggy code before deployment to other environments such as production.<br />
-Whenever new lines of code are added, they get thoroughly tested before integration in the codebase and deployment. This guarantee quality.
+Continuous Integration, Continuous Delivery Pipelines are a set of automated processes meant to safely but quickly move from 'generating code' to deploying it as Software solution. They shorten software development and enable early discovery of buggy code before deployment to other environments, such as production.<br />
+Whenever new lines of code were added, they were thoroughly tested before integration in the codebase and deployment.<br />
+This guaranteed quality.
