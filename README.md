@@ -70,3 +70,10 @@ Few of the important fields each key entities require:
 * <b>Review System</b>: Allow users to leave reviews and ratings for properties.
 * <b>Data Optimization</b>: Ensure efficient data retrieval and storage through database optimizations.
 
+## :vertical_traffic_light: API Security
+
+* <b>Authentication</b>: Implement logic that confirms users legitimacy during login processes.
+* <b>Authorization</b>: Ensure users only have access to API endpoints not requiring admin priviledges or other permissions.
+* <b>Rate Limiting</b>: Prevent excessive requests made to the network at risk of a breakdown. Whether from a malicious actor or a high number of well-intended users.
+* <b>Cross-Origin Resource Sharing</b>: Mitigate the risk of Cross-Site Request Forgery by allowing allowing few origin to make specific HTTP request contain a set of custom headers.
+
