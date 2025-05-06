@@ -39,3 +39,15 @@ To successfully complete the project tasks, one must:
 * <b>Database Administrator</b>: Manages Database design, indexing, and optimizations.
 * <b>DevOps Engineer</b>: Handles deployment, monitoring, and scaling of backend services.
 * <b>QA Engineer</b>: Ensures the backend functionalities are thoroughly tested and meet quality standards.
+
+## :wrench: Technology Stack
+
+* <b>Django</b>: A high-level Python Web framework used for building the RESTful API.
+* <b>Django REST Framework</b>: Provides tools for creating and managing RESTful API.
+* <b>PostgreSQL</b>: A powerful relational databse used for data storage.
+* <b>GraphQL</b>: Allows for flexible and efficient querying of data.
+* <b>Celery</b>: For handling asynchronous tasks such as sending notifications or processing payments.
+* <b>Redis</b>: Used for caching and session managemnt.
+* <b>Docker</b>: Containerization tool for consistent development and deployment environments.
+* <b>CI/CD Pipelines</b>: Automated pipelines for testing and deploying code changes.
+
