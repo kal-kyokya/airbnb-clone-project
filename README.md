@@ -1,4 +1,4 @@
-# AirBNB Clone Project
+# :house: AirBNB Clone Project
 
 This project by <a href="https://www.alxafrica.com" target="_blank">ALX Africa</a> for its Backend Web Pro-Development is a comprehensive, real-world application designed to simulate the development of a robust ```booking platform``` like Airbnb.<br />
 It involves a deep dive into full-stack development, focusing on:<br />
@@ -9,7 +9,7 @@ It involves a deep dive into full-stack development, focusing on:<br />
 <br />
 The aim is to understand complex architectures, workflows and collaborative team dynamics while building a scalable web application.
 
-## Learning Objective
+## :mortar_board: Learning Objective
 
 This project is tailored to enhance expertise in modern software development practices. By completing it, I will:
 
@@ -22,7 +22,7 @@ This project is tailored to enhance expertise in modern software development pra
 ->	Develop an understanding of integrating technologies like Django, MySQL, and GraphQL in a unified ecosystem.
 ```
 
-## Requirements
+## :scroll: Requirements
 
 To successfully complete the project tasks, one must:
 
@@ -33,3 +33,9 @@ To successfully complete the project tasks, one must:
 ->	Understand software development lifecycle practices, including security, CI/CD, and database design.
 ->	Be comfortable with modern tools such as Docker, GitHub Actions, or similar CI/CD platforms.
 ```
+## :busts_in_silhouette: Team Roles
+
+* <b>Backend Developer</b>: Responsible for implementing API endpoints, database schemas, and business logic.
+* <b>Database Administrator</b>: Manages Database design, indexing, and optimizations.
+* <b>DevOps Engineer</b>: Handles deployment, monitoring, and scaling of backend services.
+* <b>QA Engineer</b>: Ensures the backend functionalities are thoroughly tested and meet quality standards.
