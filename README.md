@@ -44,7 +44,7 @@ To successfully complete the project tasks, one must:
 
 * <b>Django</b>: A high-level Python Web framework used for building the RESTful API.
 * <b>Django REST Framework</b>: Provides tools for creating and managing RESTful API.
-* <b>PostgreSQL</b>: A powerful relational databse used for data storage.
+* <b>PostgreSQL</b>: A powerful relational database used for data storage.
 * <b>GraphQL</b>: Allows for flexible and efficient querying of data.
 * <b>Celery</b>: For handling asynchronous tasks such as sending notifications or processing payments.
 * <b>Redis</b>: Used for caching and session managemnt.
@@ -72,12 +72,12 @@ Few of the important fields each key entities require:
 
 ## :vertical_traffic_light: API Security
 
-* <b>Authentication</b>: Implement logic that confirms users legitimacy during login processes.
-* <b>Authorization</b>: Ensure users only have access to API endpoints not requiring admin priviledges or other permissions.
-* <b>Rate Limiting</b>: Prevent excessive requests made to the network at risk of a breakdown. Whether from a malicious actor or a high number of well-intended users.
-* <b>Cross-Origin Resource Sharing</b>: Mitigate the risk of Cross-Site Request Forgery by allowing defined origins to make specific HTTP requests, each containing a set of custom headers.
+* <b>Authentication</b>: Implement logic establishing users legitimacy during log ins.
+* <b>Authorization</b>: Ensure users only have access to API endpoints not requiring admin priviledges and other permissions.
+* <b>Rate Limiting</b>: Prevent excessive requests increasing risk of a breakdown. Whether from a malicious actor or a high number of well-intended users.
+* <b>Cross-Origin Resource Sharing</b>: Mitigate the risk of Cross-Site Request Forgery by only allowing defined origins to make specific HTTP requests, each containing a set of custom headers.
 
 ## :recycle: CI/CD Pipeline
 
 Continuous Integration, Continuous Delivery Pipelines are a set of automated processes meant to safely but quickly move from 'generating code' to deploying it as Software solution. They shorten software development and enable early discovery of buggy code before deployment to other environments such as production.<br />
-Whenever new lines of code are added, they get thoroughly tested before integration in the code base and deployment. This guarantee quality.
+Whenever new lines of code are added, they get thoroughly tested before integration in the codebase and deployment. This guarantee quality.
