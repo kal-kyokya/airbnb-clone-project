@@ -75,5 +75,9 @@ Few of the important fields each key entities require:
 * <b>Authentication</b>: Implement logic that confirms users legitimacy during login processes.
 * <b>Authorization</b>: Ensure users only have access to API endpoints not requiring admin priviledges or other permissions.
 * <b>Rate Limiting</b>: Prevent excessive requests made to the network at risk of a breakdown. Whether from a malicious actor or a high number of well-intended users.
-* <b>Cross-Origin Resource Sharing</b>: Mitigate the risk of Cross-Site Request Forgery by allowing allowing few origin to make specific HTTP request contain a set of custom headers.
+* <b>Cross-Origin Resource Sharing</b>: Mitigate the risk of Cross-Site Request Forgery by allowing defined origins to make specific HTTP requests, each containing a set of custom headers.
 
+## :recycle: CI/CD Pipeline
+
+Continuous Integration, Continuous Delivery Pipelines are a set of automated processes meant to safely but quickly move from 'generating code' to deploying it as Software solution. They shorten software development and enable early discovery of buggy code before deployment to other environments such as production.<br />
+Whenever new lines of code are added, they get thoroughly tested before integration in the code base and deployment. This guarantee quality.
